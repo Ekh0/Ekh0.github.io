@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Yifan Li</title>
+    <link>http://ekh0.github.io/</link>
+    <description>Recent content in Home on Yifan Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 18:56:13 -0400</lastBuildDate>
+    
+	<atom:link href="http://ekh0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Focus Light</title>
+      <link>http://ekh0.github.io/projects/creations/focus_light/</link>
+      <pubDate>Mon, 30 Apr 2018 11:33:09 -0400</pubDate>
+      
+      <guid>http://ekh0.github.io/projects/creations/focus_light/</guid>
+      <description>Focus Light is a Machine Learning based IoT system that helps people focusing on their work. The system runs at the background of the computer, collects user activities, and identifies the user&amp;rsquo;s current working status. A light bulb is connected to the system to indicate the user&amp;rsquo;s status. When the system detects that the user is currently focusing, the light bulb turns red which informs the colleagues that this person is currently busy which potentially reduces unnecessary interruptions in the workplace.</description>
+    </item>
+    
+    <item>
+      <title>CENTRE THEATER WEBSITE</title>
+      <link>http://ekh0.github.io/projects/creations/theater/</link>
+      <pubDate>Sun, 30 Apr 2017 11:33:09 -0400</pubDate>
+      
+      <guid>http://ekh0.github.io/projects/creations/theater/</guid>
+      <description> Built the university theater’s inventory management system with teammates. Designed database schema. Designed and implemented user management system. Implemented the full-text searching feature of the system which allows users to easily locate the costume they want without using the filters. Responsible for bug fixing, system maintenance, and customer support until graduation.  </description>
+    </item>
+    
+    <item>
+      <title>Project Sisyphus</title>
+      <link>http://ekh0.github.io/projects/creations/sisyphus/</link>
+      <pubDate>Fri, 30 Oct 2015 11:33:09 -0400</pubDate>
+      
+      <guid>http://ekh0.github.io/projects/creations/sisyphus/</guid>
+      <description> A 2D puzzle game created for mobile platforms, powered by Unity3D. Contributed to the concept and game-play of the game. Implemented several components of the game including the large rock, moving platforms, and seesaw.  </description>
+    </item>
+    
+    <item>
+      <title>Testpage</title>
+      <link>http://ekh0.github.io/blog/test/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>http://ekh0.github.io/blog/test/</guid>
+      <description>Test Test</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://ekh0.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ekh0.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
