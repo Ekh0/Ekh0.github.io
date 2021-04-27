@@ -6,11 +6,7 @@
     <description>Recent content in Blogs on Yifan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate>
-    
-	<atom:link href="http://ekh0.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate><atom:link href="http://ekh0.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testpage</title>
       <link>http://ekh0.github.io/blog/test/</link>
