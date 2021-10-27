@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creations on Yifan Li</title>
-    <link>http://ekh0.github.io/projects/creations/</link>
+    <link>https://ekh0.github.io/projects/creations/</link>
     <description>Recent content in Creations on Yifan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="http://ekh0.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://ekh0.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Focus Light</title>
-      <link>http://ekh0.github.io/projects/creations/focus_light/</link>
+      <link>https://ekh0.github.io/projects/creations/focus_light/</link>
       <pubDate>Mon, 30 Apr 2018 11:33:09 -0400</pubDate>
       
-      <guid>http://ekh0.github.io/projects/creations/focus_light/</guid>
+      <guid>https://ekh0.github.io/projects/creations/focus_light/</guid>
       <description>Focus Light is a Machine Learning based IoT system that helps people focusing on their work. The system runs at the background of the computer, collects user activities, and identifies the user&amp;rsquo;s current working status. A light bulb is connected to the system to indicate the user&amp;rsquo;s status. When the system detects that the user is currently focusing, the light bulb turns red which informs the colleagues that this person is currently busy which potentially reduces unnecessary interruptions in the workplace.</description>
     </item>
     
     <item>
       <title>CENTRE THEATER WEBSITE</title>
-      <link>http://ekh0.github.io/projects/creations/theater/</link>
+      <link>https://ekh0.github.io/projects/creations/theater/</link>
       <pubDate>Sun, 30 Apr 2017 11:33:09 -0400</pubDate>
       
-      <guid>http://ekh0.github.io/projects/creations/theater/</guid>
+      <guid>https://ekh0.github.io/projects/creations/theater/</guid>
       <description> Built the university theater’s inventory management system with teammates. Designed database schema. Designed and implemented user management system. Implemented the full-text searching feature of the system which allows users to easily locate the costume they want without using the filters. Responsible for bug fixing, system maintenance, and customer support until graduation.  </description>
     </item>
     
     <item>
       <title>Project Sisyphus</title>
-      <link>http://ekh0.github.io/projects/creations/sisyphus/</link>
+      <link>https://ekh0.github.io/projects/creations/sisyphus/</link>
       <pubDate>Fri, 30 Oct 2015 11:33:09 -0400</pubDate>
       
-      <guid>http://ekh0.github.io/projects/creations/sisyphus/</guid>
+      <guid>https://ekh0.github.io/projects/creations/sisyphus/</guid>
       <description> A 2D puzzle game created for mobile platforms, powered by Unity3D. Contributed to the concept and game-play of the game. Implemented several components of the game including the large rock, moving platforms, and seesaw.  </description>
     </item>
     
